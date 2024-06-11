@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.77f1ff0e.css",
-    "main.js": "/static/js/main.2cbb6cf7.js",
-    "static/media/logo.png": "/static/media/logo.3897bd6e2eaf8941bfc0.png",
-    "index.html": "/index.html",
-    "main.77f1ff0e.css.map": "/static/css/main.77f1ff0e.css.map",
-    "main.2cbb6cf7.js.map": "/static/js/main.2cbb6cf7.js.map"
+    "main.css": "/nesil/static/css/main.77f1ff0e.css",
+    "main.js": "/nesil/static/js/main.79c13a84.js",
+    "static/media/logo.png": "/nesil/static/media/logo.3897bd6e2eaf8941bfc0.png",
+    "index.html": "/nesil/index.html",
+    "main.77f1ff0e.css.map": "/nesil/static/css/main.77f1ff0e.css.map",
+    "main.79c13a84.js.map": "/nesil/static/js/main.79c13a84.js.map"
   },
   "entrypoints": [
     "static/css/main.77f1ff0e.css",
-    "static/js/main.2cbb6cf7.js"
+    "static/js/main.79c13a84.js"
   ]
 }
